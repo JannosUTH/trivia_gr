@@ -1,2 +1,2 @@
-# trivia_gr
-Puzzle_Game
+Simple Puzzle Game
+I uploaded with my colleague during our university studies.
